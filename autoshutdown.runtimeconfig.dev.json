@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\iceki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\iceki\\.nuget\\packages"
+    ]
+  }
+}
